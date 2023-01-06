@@ -16,3 +16,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         runlevels.md
         resize_ext4.md       # Other markdown pages, images and other files.
+
+## Pages
+
+* [resize_ext4](/resize_ext4)
+* [runlevels](/runlevels)
+
