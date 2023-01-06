@@ -19,6 +19,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Pages
 
-* [resize_ext4](/resize_ext4)
-* [runlevels](/runlevels)
+* [resize_ext4](/docs/resize_ext4)
+* [runlevels](/docs/runlevels)
 
